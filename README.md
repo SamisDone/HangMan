@@ -15,7 +15,7 @@ A modern, interactive hangman game built with HTML, CSS, and JavaScript. Feature
 
 ## 🚀 How to Play
 
-1. **Open the Game**: Simply open `index.html` in any modern web browser
+1. **Open the Game**
 2. **Start Guessing**: Click on letters or type on your keyboard to guess letters
 3. **Watch the Hangman**: The hangman drawing appears progressively with each wrong guess
 4. **Win or Lose**: 
