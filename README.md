@@ -48,21 +48,7 @@ The game adapts to different screen sizes:
 - **Tablet**: Optimized spacing and touch-friendly buttons
 - **Mobile**: Single-column layout with larger touch targets
 
-## 🎨 Customization
 
-You can easily customize the game by:
-- Adding new words to the `words` array in `script.js`
-- Modifying colors and styling in `styles.css`
-- Adjusting game difficulty by changing the number of lives
-- Adding new features like difficulty levels or categories
-
-## 🚀 Getting Started
-
-1. Download all files to a folder
-2. Open `index.html` in your web browser
-3. Start playing immediately!
-
-No installation or dependencies required - it's a pure HTML/CSS/JavaScript application.
 
 ## 📁 File Structure
 
@@ -73,13 +59,3 @@ HangMan/
 ├── script.js       # Game logic and functionality
 └── README.md       # This file
 ```
-
-## 🎯 Word Categories
-
-The game includes programming and technology-themed words such as:
-- Programming Languages: JavaScript, Python, HTML, CSS
-- Frameworks: React, NodeJS
-- Concepts: Algorithm, Function, Variable, Object
-- Technology: Database, Network, Security, API
-
-Enjoy playing! 🎮 
